@@ -4,8 +4,10 @@
 
 **Explore the analysis:**
 
-* [View Notebook (HTML)](Telecom_Customer_Churn_Prediction.html)
-* [View Notebook (nbviewer)](https://nbviewer.jupyter.org/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Telecom_Customer_Churn_Prediction.ipynb)
+[![View Notebook](https://img.shields.io/badge/Open%20Notebook-GitHub%20View-orange)](https://github.com/TaqiRaza512/Churn-Prediction/blob/main/customer-churn-prediction.ipynb)
+
+
+🔗 **Click [here](https://github.com/TaqiRaza512/Churn-Prediction/blob/main/customer-churn-prediction.ipynb) to view the full Jupyter Notebook.**
 
 ---
 

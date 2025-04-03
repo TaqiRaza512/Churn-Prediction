@@ -28,14 +28,6 @@
 * Python, Pandas, NumPy
 * Matplotlib, Seaborn, Plotly
 * Scikit-learn
-  
-## Results
-![Alt text](Boxplot.png)
-![Alt text](ROC.png)
-![Alt text](bar.png)
-![Alt text](distribution.png)
-![Alt text](logo.png)
-![Alt text](monthly_dist.png)
 
 
 ## 🤝 Let's Connect!
